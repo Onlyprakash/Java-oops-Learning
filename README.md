@@ -5,10 +5,10 @@ Welcome to this focused repository dedicated to mastering the four pillars of Ob
 
 # The four pillars covered are:
 
-# *Encapsulation
+# * Encapsulation
 
-# *Inheritance
+# * Inheritance
 
-# *Abstraction
+# * Abstraction
 
-# *Polymorphism
+# * Polymorphism
