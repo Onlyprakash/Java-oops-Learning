@@ -12,3 +12,12 @@ Welcome to this focused repository dedicated to mastering the four pillars of Ob
 * Abstraction
 
 * Polymorphism
+
+# 🔍 Deeper Dive into Each Pillar
+Below is a detailed look at each principle, complete with a code snapshot from the relevant file.
+
+1. Encapsulation
+
+Concept: Think of it like a protective capsule. Encapsulation bundles the data (attributes) and the methods that operate on that data together, hiding the data from outside interference.
+
+File: Encapsulation.java  
