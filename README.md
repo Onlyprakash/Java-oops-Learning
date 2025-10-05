@@ -13,7 +13,7 @@ Welcome to this focused repository dedicated to mastering the four pillars of Ob
 
 * Polymorphism
 
-# 🔍 Deeper Dive into Each Pillar
+# 🔍 Deeper Dive into Each Pillar :-
 Below is a detailed look at each principle, complete with a code snapshot from the relevant file.
 
 # 1. Encapsulation
@@ -39,5 +39,19 @@ Concept: This is about hiding complexity. Think of a TV remote: you know the "po
 Concept: Meaning "many forms," this principle allows a single action to be performed in different ways. In Java, this is seen in Method Overriding (run-time) and Method Overloading (compile-time).
 
 ➤ File: Polymorphism.java
+
+# 🛠️ TECHNOLOGIES USED :-
+
+➤ Programming Language: Java
+
+➤ IDE Support: IntelliJ IDEA
+
+➤ Java Version: JDK 8 or above
+
+# 👤 AUTHOR :-
+
+Prakash Kumar (Onlyprakash)
+📎 GitHub Profile:
+👉 https://github.com/Onlyprakash
 
 
