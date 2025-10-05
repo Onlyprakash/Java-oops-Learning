@@ -2,7 +2,8 @@
 
 # 📘 PROJECT OVERVIEW :-
 Welcome to this focused repository dedicated to mastering the four pillars of Object-Oriented Programming (OOP) in Java. This project moves beyond theory by providing four clean, separate, and runnable examples. Each file is a practical demonstration of a single core concept, making it an excellent resource for learning and revision.
-The four pillars covered are:
+
+# The four pillars covered are:
 
 # *Encapsulation
 
