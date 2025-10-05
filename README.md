@@ -38,7 +38,7 @@ Concept: This is about hiding complexity. Think of a TV remote: you know the "po
 
 Concept: Meaning "many forms," this principle allows a single action to be performed in different ways. In Java, this is seen in Method Overriding (run-time) and Method Overloading (compile-time).
 
-➤ File: Polymorphism.java
+➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Polymorphism.java
 
 # 🛠️ TECHNOLOGIES USED :-
 
