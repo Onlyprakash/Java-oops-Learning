@@ -32,7 +32,7 @@ Concept: This is the "is-a" relationship, like passing down family traits. A new
 
 Concept: This is about hiding complexity. Think of a TV remote: you know the "power" button turns it on, but you don't need to know how it works internally. Abstraction defines a contract that other classes must follow.
 
-➤ File: Abstraction.java
+➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Abstraction.java
 
 # 4. Polymorphism
 
