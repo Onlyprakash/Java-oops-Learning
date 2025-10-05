@@ -26,7 +26,7 @@ Concept: Think of it like a protective capsule. Encapsulation bundles the data (
 
 Concept: This is the "is-a" relationship, like passing down family traits. A new class (child/subclass) can inherit fields and methods from an existing class (parent/superclass), which promotes code reuse.
 
-➤ File: Inheritance.java
+➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Inheritance.java
 
 # 3. Abstraction
 
