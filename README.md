@@ -51,7 +51,8 @@ Concept: Meaning "many forms," this principle allows a single action to be perfo
 # 👤 AUTHOR :-
 
 Prakash Kumar (Onlyprakash)
-📎 GitHub Profile:
+<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/57adc785-7979-4959-9cc1-78e992e56c08" />
+ GitHub Profile:
 👉 https://github.com/Onlyprakash
 
 
