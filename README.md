@@ -22,25 +22,33 @@ Below is a detailed look at each principle, complete with a code snapshot from t
 
 # 1. Encapsulation
 
-Concept: Think of it like a protective capsule. Encapsulation bundles the data (attributes) and the methods that operate on that data together, hiding the data from outside interference.
+Concept: Think of it like a protective capsule. Encapsulation bundles the data (attributes) and the methods that operate on that data together,
+
+hiding the data from outside interference.
 
 ➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Encapsulation.java
 
 # 2. Inheritance
 
-Concept: This is the "is-a" relationship, like passing down family traits. A new class (child/subclass) can inherit fields and methods from an existing class (parent/superclass), which promotes code reuse.
+Concept: This is the "is-a" relationship, like passing down family traits. A new class (child/subclass) can inherit fields and methods from an existing
+
+class (parent/superclass), which promotes code reuse.
 
 ➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Inheritance.java
 
 # 3. Abstraction
 
-Concept: This is about hiding complexity. Think of a TV remote: you know the "power" button turns it on, but you don't need to know how it works internally. Abstraction defines a contract that other classes must follow.
+Concept: This is about hiding complexity. Think of a TV remote: you know the "power" button turns it on, but you don't need to know how it works internally.
+
+Abstraction defines a contract that other classes must follow.
 
 ➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Abstraction.java
 
 # 4. Polymorphism
 
-Concept: Meaning "many forms," this principle allows a single action to be performed in different ways. In Java, this is seen in Method Overriding (run-time) and Method Overloading (compile-time).
+Concept: Meaning "many forms," this principle allows a single action to be performed in different ways. In Java,
+
+this is seen in Method Overriding (run-time) and Method Overloading (compile-time).
 
 ➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Polymorphism.java
 
