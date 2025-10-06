@@ -54,11 +54,11 @@ this is seen in Method Overriding (run-time) and Method Overloading (compile-tim
 
 # 🛠️ TECHNOLOGIES USED :-
 
-➤ Programming Language: Java
+➤ Programming Language : Java
 
-➤ IDE Support: IntelliJ IDEA
+➤ IDE Support : IntelliJ IDEA
 
-➤ Java Version: JDK 8 or above
+➤ Java Version : JDK 8 or above
 
 # 👤 AUTHOR :-
 
