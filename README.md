@@ -38,9 +38,9 @@ class (parent/superclass), which promotes code reuse.
 
 # 3. Abstraction
 
-Concept: This is about hiding complexity. Think of a TV remote: you know the "power" button turns it on, but you don't need to know how it works internally.
+Concept: This is about hiding complexity. Think of a TV remote: you know the "power" button turns it on, but you don't need to know how 
 
-Abstraction defines a contract that other classes must follow.
+it works internally. Abstraction defines a contract that other classes must follow.
 
 ➤ File: https://github.com/Onlyprakash/Java-oops-Learning/blob/main/Abstraction.java
 
